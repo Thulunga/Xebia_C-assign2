@@ -4,6 +4,15 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+
+//1.Write a C# Sharp program to accept two integers and check whether they are equal or not. 
+//Test Data :
+//Input 1st number: 5
+//Input 2nd number: 5
+//Expected Output :
+//5 and 5 are equal
+
+
 namespace CSharpassignment2
 {
 

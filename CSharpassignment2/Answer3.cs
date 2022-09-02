@@ -4,6 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+
+//3.Write a C# Sharp program to check whether a given number is positive or negative. 
+//Test Data : 14
+//Expected Output :
+//14 is a positive number
+
 namespace CSharpassignment2
 {
 

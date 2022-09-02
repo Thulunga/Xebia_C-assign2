@@ -4,6 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+
+//2.Write a C# Sharp program to check whether a given number is even or odd.
+//Test Data : 15
+//Expected Output :
+//15 is an odd integer
+
 namespace CSharpassignment2
 {
 
