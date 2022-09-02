@@ -1,0 +1,8 @@
+C:\Users\tbasumatary\source\repos\CSharpassignment2\CSharpassignment2\obj\Debug\CSharpassignment2.csproj.AssemblyReference.cache
+C:\Users\tbasumatary\source\repos\CSharpassignment2\CSharpassignment2\obj\Debug\CSharpassignment2.csproj.SuggestedBindingRedirects.cache
+C:\Users\tbasumatary\source\repos\CSharpassignment2\CSharpassignment2\obj\Debug\CSharpassignment2.csproj.CoreCompileInputs.cache
+C:\Users\tbasumatary\source\repos\CSharpassignment2\CSharpassignment2\bin\Debug\CSharpassignment2.exe.config
+C:\Users\tbasumatary\source\repos\CSharpassignment2\CSharpassignment2\bin\Debug\CSharpassignment2.exe
+C:\Users\tbasumatary\source\repos\CSharpassignment2\CSharpassignment2\bin\Debug\CSharpassignment2.pdb
+C:\Users\tbasumatary\source\repos\CSharpassignment2\CSharpassignment2\obj\Debug\CSharpassignment2.exe
+C:\Users\tbasumatary\source\repos\CSharpassignment2\CSharpassignment2\obj\Debug\CSharpassignment2.pdb
