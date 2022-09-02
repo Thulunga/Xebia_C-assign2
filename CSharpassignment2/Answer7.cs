@@ -15,7 +15,21 @@ namespace CSharpassignment2
     {
         static void Main7()
         {
-            System.Console.WriteLine("Thulunga BAsumatry11");
+            float PerHeight;
+            Console.Write("\n\n");
+            Console.Write("\n\n");
+
+            Console.Write("Input the height (in centimetres):");
+            PerHeight = Convert.ToInt32(Console.ReadLine());
+
+            if (PerHeight < 150.0)
+                Console.Write("The person is Dwarf. \n\n");
+            else if ((PerHeight >= 150.0) && (PerHeight <= 165.0))
+                Console.Write("The person is  average heighted. \n\n");
+            else if ((PerHeight >= 165.0) && (PerHeight <= 195.0))
+                Console.Write("The person is taller. \n\n");
+            else
+                Console.Write("Abnormal height.\n\n");
 
             Console.ReadKey();
         }

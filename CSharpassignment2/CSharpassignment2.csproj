@@ -52,7 +52,10 @@
     <Compile Include="Answer15.cs" />
     <Compile Include="Answer16.cs" />
     <Compile Include="Answer17.cs" />
+    <Compile Include="Answer18.cs" />
+    <Compile Include="Answer19.cs" />
     <Compile Include="Answer2.cs" />
+    <Compile Include="Answer20.cs" />
     <Compile Include="Answer3.cs" />
     <Compile Include="Answer4.cs" />
     <Compile Include="Answer5.cs" />

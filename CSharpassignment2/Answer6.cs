@@ -15,7 +15,21 @@ namespace CSharpassignment2
     {
         static void Main6()
         {
-            System.Console.WriteLine("Thulunga BAsumatry11");
+
+            int m, n;
+            Console.Write("\n\n");
+            Console.Write("\n\n");
+
+            Console.Write("Input the  value of m :");
+            m = Convert.ToInt32(Console.ReadLine());
+            if (m != 0)
+                if (m > 0)
+                    n = 1;
+                else
+                    n = -1;
+            else
+                n = 0;
+            Console.Write("The value of n = {0} \n\n", n);
 
             Console.ReadKey();
         }
