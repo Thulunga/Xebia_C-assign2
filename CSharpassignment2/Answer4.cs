@@ -15,7 +15,7 @@ namespace CSharpassignment2
 {
     internal class Answer4
     {
-        static void Main()
+        static void Main4()
         {
             int chk_year;
             Console.Write("\n\n");
